@@ -16,7 +16,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]www.linkedin.com/in/joshua-ifeoluwapo-adelegan-2a751b281
 
 <!---
 Ifeoluwa00dev/Ifeoluwa00dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
