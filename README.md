@@ -65,7 +65,7 @@ I specialize in React/TypeScript frontends with intelligent backends — integra
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://ifeoluwa-dev.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joshua-ifeoluwapo-adelegan-2a751b281)
-[![Contra](https://img.shields.io/badge/-Contra-000000?logo=contra&logoColor=white&style=flat-square)](https://contra.com) 
-[![X](https://img.shields.io/badge/-X-000000?logo=X&logoColor=white&style=flat-square)](https://contra.com)
+[![Contra](https://img.shields.io/badge/-Contra-000000?logo=contra&logoColor=white&style=flat-square)](https://contra.com/ifeoluwapo_adelegan_zrxv8yic/work?r=ifeoluwapo_adelegan_zrxv8yic) 
+[![](https://img.shields.io/badge/-X-000000?logo=X&logoColor=white&style=flat-square)](https://x.com/Ife_Creates)
 
 > *Building from Lagos. Shipping worldwide.*
