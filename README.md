@@ -1,24 +1,75 @@
-# Hi there 👋 I'm Ifeoluwa
-## 💫 About Me
-🔭 I'm currently working on different React project
-🌱 I'm learning [relevant tech - e.g., TypeScript, Next.js]
-👯 Open to collaborate on React projects
-💬 Ask me about React, JavaScript, and frontend development
+# Hey, I'm Jay (Ifeoluwa) 👋
+
+I'm a **full-stack developer and founder** based in Lagos, Nigeria — building AI-powered web apps for real clients and shipping my own products under the **Hibiscus** brand.
+
+I specialize in React/TypeScript frontends with intelligent backends — integrating the **Claude API**, Supabase, Socket.io, and modern deployment stacks into products that actually work in production.
+
+---
+
+## 🚀 What I'm Building
+
+| Project | Description | Stack |
+|---|---|---|
+| **Attendly** | Real-time classroom attendance system with rotating PINs | React, TypeScript, Socket.io, Express, Neon Postgres |
+| **Meridian** | Deep compatibility matching app with a Claude API scoring engine | React, TypeScript, Claude API, Supabase |
+| **Hibiscus** | Ready-made website products for African businesses | React, Vite, Next.js, Tailwind CSS |
+
+---
 
 ## 🛠 Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat-square)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
+
+**AI & Integrations**
+
+![Claude API](https://img.shields.io/badge/-Claude_API-D4A27F?logo=anthropic&logoColor=black&style=flat-square)
+![Paystack](https://img.shields.io/badge/-Paystack-00C3F7?logo=paystack&logoColor=white&style=flat-square)
+
+**Deployment**
+
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white&style=flat-square)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square)
+
+---
+
+## 🏗 Client Work
+
+- **Doju Health** — Medical equipment marketplace. Resolved a critical iOS white screen bug by reducing JS bundle from 9.5MB → 603KB via React lazy loading
+- **Zelvra Beauty World** — E-commerce store with live Paystack integration and WhatsApp checkout, CAC registered (RC-9552662)
+- **Release Innovations Ltd** — Full brand site with EmailJS, Google Analytics 4, Meta Pixel, Cloudflare DNS
+- **Kira Africa** — Percussionist portfolio with Framer Motion animations and EmailJS booking
+- **Tolak Ventures** — E-commerce with Supabase + Firebase Auth, deployed to Netlify
+
+---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]www.linkedin.com/in/joshua-ifeoluwapo-adelegan-2a751b281
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifeoluwa00dev&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeoluwa00dev&layout=compact&theme=tokyonight&hide_border=true)
 
-<!---
-Ifeoluwa00dev/Ifeoluwa00dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://ifeoluwa-dev.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joshua-ifeoluwapo-adelegan-2a751b281)
+[![Contra](https://img.shields.io/badge/-Contra-000000?logo=contra&logoColor=white&style=flat-square)](https://contra.com)
+
+> *Building from Lagos. Shipping worldwide.*
