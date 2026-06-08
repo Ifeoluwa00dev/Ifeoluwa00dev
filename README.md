@@ -10,6 +10,7 @@ I specialize in React/TypeScript frontends with intelligent backends — integra
 
 | Project | Description | Stack |
 |---|---|---|
+| **WC26 Fan Intelligence** | FIFA World Cup 2026 live tracker with group standings, knockout bracket simulation, and global analytics dashboard | React, TypeScript, Vite, Recharts, Fuse.js, football-data.org API |
 | **Attendly** | Real-time classroom attendance system with rotating PINs | React, TypeScript, Socket.io, Express, Neon Postgres |
 | **Meridian** | Deep compatibility matching app with a Claude API scoring engine | React, TypeScript, Claude API, Supabase |
 | **Hibiscus** | Ready-made website products for African businesses | React, Vite, Next.js, Tailwind CSS |
@@ -59,13 +60,11 @@ I specialize in React/TypeScript frontends with intelligent backends — integra
 
 ---
 
-
-
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://ifeoluwa-dev.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joshua-ifeoluwapo-adelegan-2a751b281)
-[![Contra](https://img.shields.io/badge/-Contra-000000?logo=contra&logoColor=white&style=flat-square)](https://contra.com/ifeoluwapo_adelegan_zrxv8yic/work?r=ifeoluwapo_adelegan_zrxv8yic) 
+[![Contra](https://img.shields.io/badge/-Contra-000000?logo=contra&logoColor=white&style=flat-square)](https://contra.com/ifeoluwapo_adelegan_zrxv8yic/work?r=ifeoluwapo_adelegan_zrxv8yic)
 [![](https://img.shields.io/badge/-X-000000?logo=X&logoColor=white&style=flat-square)](https://x.com/Ife_Creates)
 
 > *Building from Lagos. Shipping worldwide.*
