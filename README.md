@@ -1,6 +1,6 @@
 # Hey, I'm Jay (Ifeoluwa) 👋
 
-I'm a **full-stack developer and founder** based in Lagos, Nigeria — building AI-powered web apps for real clients and shipping my own products under the **Hibiscus** brand.
+I'm a **full-stack developer and founder** based in Lagos, Nigeria — building AI-powered web apps for real clients and shipping my own products under the **Roselle** brand.
 
 I specialize in React/TypeScript frontends with intelligent backends — integrating the **Claude API**, Supabase, Socket.io, and modern deployment stacks into products that actually work in production.
 
