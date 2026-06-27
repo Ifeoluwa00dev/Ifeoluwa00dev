@@ -10,7 +10,7 @@ I specialize in React/TypeScript frontends with intelligent backends — integra
 
 | Project | Description | Stack |
 |---|---|---|
-| **WC26 Fan Intelligence** | 8-team fan intelligence platform built solo in under 2 weeks | React, TypeScript, Vite, Recharts, Fuse.js, football-data.org API |
+| **WC26 Fan Intelligence** | 48-team fan intelligence platform built solo in under 2 weeks | React, TypeScript, Vite, Recharts, Fuse.js, football-data.org API |
 | **Attendly** | Real-time classroom attendance system with rotating PINs | React, TypeScript, Socket.io, Express, Neon Postgres |
 | **Meridian** | Deep compatibility matching app with a Claude API scoring engine | React, TypeScript, Claude API, Supabase |
 | **Roselle** | Ready-made website products for African businesses | React, Vite, Next.js, Tailwind CSS |
