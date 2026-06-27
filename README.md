@@ -13,7 +13,7 @@ I specialize in React/TypeScript frontends with intelligent backends — integra
 | **WC26 Fan Intelligence** | FIFA World Cup 2026 live tracker with group standings, knockout bracket simulation, and global analytics dashboard | React, TypeScript, Vite, Recharts, Fuse.js, football-data.org API |
 | **Attendly** | Real-time classroom attendance system with rotating PINs | React, TypeScript, Socket.io, Express, Neon Postgres |
 | **Meridian** | Deep compatibility matching app with a Claude API scoring engine | React, TypeScript, Claude API, Supabase |
-| **Hibiscus** | Ready-made website products for African businesses | React, Vite, Next.js, Tailwind CSS |
+| **Roselle** | Ready-made website products for African businesses | React, Vite, Next.js, Tailwind CSS |
 
 ---
 
